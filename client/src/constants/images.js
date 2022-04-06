@@ -32,6 +32,8 @@ import nb from '../assets/nb.png'
 import skype from '../assets/skype.png'
 import spotify from '../assets/spotify.png'
 import angular from '../assets/angular.png'
+import REACT from '../assets/REACT1.jpg'
+import react2 from '../assets/reactt.png'
 
 export default {
   email,
@@ -68,4 +70,6 @@ export default {
   skype,
   spotify,
   angular,
+  REACT,
+  react2,
 }
