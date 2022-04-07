@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { HiMenuAlt4, HiX } from 'react-icons/hi'
 import { motion } from 'framer-motion'
-
+//int the main and main the int 
 import { images } from '../../constants'
 import './Navbar.scss'
 
