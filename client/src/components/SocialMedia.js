@@ -14,11 +14,11 @@ const SocialMedia = () => (
         <BsGithub />
       </div>
     </a>
-    <div>
-      <a href="https://www.facebook.com/AYOUB.MAIMMADI1/" target="_blank">
+    <a href="https://www.facebook.com/AYOUB.MAIMMADI1/" target="_blank">
+      <div>
         <FaFacebookF />
-      </a>
-    </div>
+      </div>
+    </a>
     <div>
       <a href="https://twitter.com/Ayoubmaimmadi2" target="_blank">
         <BsTwitter />
