@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 
 const MotionWrap = (Component, classNames) =>
+  // Higer Order Component
   function HOC() {
     return (
       <motion.div
