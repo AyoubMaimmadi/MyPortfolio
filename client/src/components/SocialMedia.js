@@ -19,11 +19,11 @@ const SocialMedia = () => (
         <FaFacebookF />
       </div>
     </a>
-    <div>
-      <a href="https://twitter.com/Ayoubmaimmadi2" target="_blank">
+    <a href="https://twitter.com/Ayoubmaimmadi2" target="_blank">
+      <div>
         <BsTwitter />
-      </a>
-    </div>
+      </div>
+    </a>
   </div>
 )
 
