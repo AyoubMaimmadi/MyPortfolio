@@ -9,11 +9,11 @@ const SocialMedia = () => (
         <BsInstagram />
       </div>
     </a>
-    <div>
-      <a href="https://github.com/AyoubMaimmadi" target="_blank">
+    <a href="https://github.com/AyoubMaimmadi" target="_blank">
+      <div>
         <BsGithub />
-      </a>
-    </div>
+      </div>
+    </a>
     <div>
       <a href="https://www.facebook.com/AYOUB.MAIMMADI1/" target="_blank">
         <FaFacebookF />
