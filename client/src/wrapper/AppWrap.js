@@ -4,6 +4,7 @@ import { NavigationDots, SocialMedia } from '../components'
 const date = new Date().getFullYear()
 
 const AppWrap = (Component, idName, classNames) =>
+  // Higer Order Component
   function HOC() {
     return (
       <div id={idName} className={`app__container ${classNames}`}>
