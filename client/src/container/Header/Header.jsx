@@ -5,6 +5,8 @@ import { AppWrap } from '../../wrapper'
 import { images } from '../../constants'
 import './Header.scss'
 
+import Typewriter from 'typewriter-effect'
+
 const scaleVariants = {
   whileInView: {
     scale: [0, 1],
@@ -28,7 +30,16 @@ const Header = () => (
           <span>👋</span>
           <div style={{ marginLeft: 20 }}>
             <p className="p-text">Hello, I'm</p>
-            <h1 className="head-text">Ayoub</h1>
+            <h1 className="head-text2">
+              <Typewriter
+                options={{
+                  strings: ['Ayoub', 'Maimmadi'],
+                  autoStart: true,
+                  loop: true,
+                  delay: 175,
+                }}
+              />
+            </h1>
           </div>
         </div>
 
