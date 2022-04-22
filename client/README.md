@@ -2,4 +2,4 @@
 
 ##### https://ayoubmaimmadi.netlify.app/
 
-![](client/src/assets/portfolio.PNG)
+![](./src/assets/portfolio.PNG)
