@@ -34,6 +34,7 @@ import spotify from '../assets/spotify.png'
 import angular from '../assets/angular.png'
 import REACT from '../assets/REACT1.jpg'
 import react2 from '../assets/reactt.png'
+import next from '../assets/Next.png'
 
 export default {
   email,
@@ -72,4 +73,5 @@ export default {
   angular,
   REACT,
   react2,
+  next,
 }

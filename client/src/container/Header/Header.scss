@@ -124,17 +124,29 @@
     object-fit: cover;
     width: 190px;
     height: 180px;
+    img {
+      width: 86%;
+      height: 86%;
+    }
   }
 
   div:nth-child(2) {
     margin: 1.75rem;
     width: 150px;
     height: 150px;
+    img {
+      width: 105%;
+      height: 105%;
+    }
   }
 
   div:nth-child(3) {
-    width: 70px;
-    height: 70px;
+    width: 120px;
+    height: 120px;
+    img {
+      width: 80%;
+      height: 80%;
+    }
   }
 
   @media screen and (min-width: 2000px) {
