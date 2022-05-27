@@ -16,13 +16,13 @@ To use you need to:
 
 4- Set up a sanity account and modify the sanity project id and token.
 
-4- open terminal and run:
+5- open terminal and run:
 
 ##### - `npm or yarn install` to install node modules in the client and server
 
 ##### - `npm or yarn start` to open developement at localhost:3000 for the client side
 
-##### - `sanity start` to open the sanity studio at localhost:3333
+##### - `sanity start` to open the sanity date editing studio at localhost:3333
 
 #### View -> https://ayoubmaimmadi.netlify.app/
 
