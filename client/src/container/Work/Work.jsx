@@ -46,10 +46,10 @@ const Work = () => {
         {[
           'React',
           'Next',
-          'Django',
           'Node',
-          'UI/UX',
+          'Django',
           'Firebase',
+          'LeetCode',
           'SQL',
           'ALL',
         ].map((item, index) => (
