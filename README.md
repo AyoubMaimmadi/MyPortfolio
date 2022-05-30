@@ -1,5 +1,7 @@
 # My-Portfolio
 
+##### View -> https://ayoubmaimmadi.vercel.app/
+
 ![](client/src/assets/portfolio.PNG)
 
 ## My Portfolio website made with React and SASS.
@@ -25,7 +27,3 @@ To use you need to:
 ##### - `sanity start` to open the sanity date editing studio at localhost:3333
 
 #### View -> https://ayoubmaimmadi.vercel.app/
-
-## Or Using Phone
-
-![](client/src/assets/qrcode.PNG)
